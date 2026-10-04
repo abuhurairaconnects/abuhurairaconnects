@@ -1,16 +1,60 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Abu%20Huraira&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**abuhurairaconnects/abuhurairaconnects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+There!+%F0%9F%91%8B+I'm+Abu+Huraira;Passionate+Software+Developer+%F0%9F%92%BB;Lifelong+Learner+%26+Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 I’m currently working on exciting web applications & projects.
+- 🌱 I’m currently learning modern web technologies & best practices.
+- 💬 Ask me about **JavaScript, Python, React, Automation & Full Stack Development**.
+- ⚡ Fun fact: *Coffee, curiosity, and code are my fuels.*
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,mongodb,mysql,git,github,vscode,postman" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhurairaconnects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhurairaconnects&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhurairaconnects&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="165" />
+</p>
+
+---
+
+### 🐍 Contribution Activity (Snake Animation)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abuhurairaconnects/abuhurairaconnects/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abuhurairaconnects/abuhurairaconnects/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abuhurairaconnects/abuhurairaconnects/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
