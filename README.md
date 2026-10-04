@@ -7,7 +7,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abuhurairaconnects&color=0969da&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Primary%20Language-TypeScript%20First-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript First" />
   <img src="https://img.shields.io/badge/Stack-Full--Stack%20Web-2da44e?style=flat-square" alt="Stack" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-1f883d?style=flat-square" alt="Status" />
