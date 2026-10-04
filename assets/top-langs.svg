@@ -1,0 +1,35 @@
+<svg width="340" height="135" viewBox="0 0 340 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #58a6ff; }
+    .lang-name { font: 500 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #c9d1d9; }
+    .lang-percent { font: 400 12px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #8b949e; }
+  </style>
+
+  <!-- Title -->
+  <text x="20" y="24" class="header">Most Used Languages</text>
+
+  <!-- Progress Bar -->
+  <mask id="bar-mask">
+    <rect x="20" y="42" width="300" height="8" rx="4" fill="white"/>
+  </mask>
+  <g mask="url(#bar-mask)">
+    <rect x="20" y="42" width="228" height="8" fill="#3178c6"/>
+    <rect x="248" y="42" width="48" height="8" fill="#f7df1e"/>
+    <rect x="296" y="42" width="24" height="8" fill="#3776ab"/>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(20, 72)">
+    <!-- TypeScript -->
+    <circle cx="5" cy="5" r="5" fill="#3178c6"/>
+    <text x="18" y="9" class="lang-name">TypeScript <tspan class="lang-percent">76.0%</tspan></text>
+
+    <!-- JavaScript -->
+    <circle cx="165" cy="5" r="5" fill="#f7df1e"/>
+    <text x="178" y="9" class="lang-name">JavaScript <tspan class="lang-percent">16.0%</tspan></text>
+
+    <!-- Python -->
+    <circle cx="5" cy="30" r="5" fill="#3776ab"/>
+    <text x="18" y="34" class="lang-name">Python <tspan class="lang-percent">8.0%</tspan></text>
+  </g>
+</svg>

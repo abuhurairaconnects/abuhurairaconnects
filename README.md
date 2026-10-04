@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhurairaconnects&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="140" />
+  <img src="https://raw.githubusercontent.com/abuhurairaconnects/abuhurairaconnects/main/assets/top-langs.svg" alt="Top Languages" />
 </p>
