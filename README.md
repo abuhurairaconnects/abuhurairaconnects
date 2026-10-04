@@ -3,23 +3,23 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+There!+%F0%9F%91%8B+I'm+Abu+Huraira;Passionate+Software+Developer+%F0%9F%92%BB;Lifelong+Learner+%26+Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+There!+%F0%9F%91%8B+I'm+Abu+Huraira;Passionate+Web+Developer;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on exciting web applications & projects.
-- 🌱 I’m currently learning modern web technologies & best practices.
-- 💬 Ask me about **JavaScript, Python, React, Automation & Full Stack Development**.
-- ⚡ Fun fact: *Coffee, curiosity, and code are my fuels.*
+- 🔭 I’m currently working on modern web applications & development.
+- 🌱 I’m currently learning advanced frontend & backend technologies.
+- 💬 Ask me about **JavaScript, React, Node.js, Next.js & Web Development**.
+- ⚡ Fun fact: *Clean code and creative UI are my passions.*
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,py,mongodb,mysql,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
   </a>
 </p>
 
